@@ -1450,7 +1450,7 @@ if (typeof Object.create !== "function") {
     };
 
     $.fn.owlCarousel.options = {
-
+        loop: true,
         items : 5,
         itemsCustom : false,
         itemsDesktop : [1199, 4],

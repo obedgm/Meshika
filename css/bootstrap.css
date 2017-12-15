@@ -5861,7 +5861,7 @@ td.visible-print {
             /* Responsive for modal */
 @media (min-width: 981px) {
     .modal-content{
-        width: 90%;
+        width: 92%;
         height: auto;
         padding: 20px;
         max-height: 500px;
@@ -5872,6 +5872,10 @@ td.visible-print {
     .modal-text{
         width: 50%;
 
+    }
+    
+    .id-color.modal-title{
+        letter-spacing: 2px;
     }
 }
 
